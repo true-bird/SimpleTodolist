@@ -4,6 +4,8 @@
 ![Dev][dev-image]
 - JavaScript를 통해 할 일 목록을 추가/삭제/수정 할 수 있는 페이지 만들기.
 
+![basic](https://user-images.githubusercontent.com/25261274/76545997-106f6d80-64ce-11ea-8666-d7b91e1b5109.PNG)
+
 ## 설치
 - webapps/ROOT 폴더 안에 `webapps/ROOT/todo 폴더` 복사
 - Tomcat 서버 실행
